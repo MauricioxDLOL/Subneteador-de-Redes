@@ -1,0 +1,125 @@
+#inputIp{
+
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 350px;
+    height: 100px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+#inputIp label{
+
+    font-size: 20px;
+    display: block;
+
+}
+
+#inputIp input{
+
+    width: 60px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 5px;
+
+
+}
+
+#cantidad{
+
+    display: inline-block;
+    margin-left: 300px;
+    margin-top: -100px;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+
+}
+
+/*#cantidad label{
+
+    font-size: 20px;
+    display: block;
+
+}
+
+#cantidad input{
+
+    width: 60px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 5px;
+    text-align: center;
+
+}*/
+
+#prefijo{
+
+    display: inline-block;
+    margin-left: 300px;
+    width: 350px;
+    height: 100px;
+    text-align: center;
+
+
+}
+
+#prefijo label{
+
+    font-size: 20px;
+    display: block;
+
+}
+
+#prefijo input{
+
+    width: 60px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 5px;
+    text-align: center;
+
+}
+
+#boton{
+
+    text-align: center;
+   
+
+}
+
+
+#tabla{
+    width: 90%;
+    margin: 0px auto;
+    margin-top: 70px;
+}
+
+#hosts{
+
+    margin: 0px auto;
+    width: 350px;
+    height: 100px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 590px;
+    
+}
+
+#hosts label{
+
+    font-size: 20px;
+    display: block;
+
+}
+
+#hosts input{
+
+    width: 60px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 5px;
+    text-align: center;
+
+}
